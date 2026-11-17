@@ -25,10 +25,12 @@ I'm a programmer passionate about learning and building new things—from games 
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=leaper1150&show_icons=true&theme=radical" alt="Yousuf's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaper1150&layout=compact&theme=radical" alt="Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leaper1150&theme=radical" alt="Yousuf's GitHub Profile Details" />
+</p>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leaper1150&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leaper1150&theme=radical" alt="Most Commit Language" />
 </p>
