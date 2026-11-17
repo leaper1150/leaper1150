@@ -1,7 +1,7 @@
 # Hi! 👋 My Name is Yousuf Yaghmour
-### A Programmer
+### A developer
 
-I'm a programmer passionate about learning and building new things from games and websites to mods and AI projects. 
+I'm a developer who's passionate about learning and building new things.
 
 - ✉️ **Contact:** yousufs.yaghmour@gmail.com
 - 🚀 **Current Project:** Sweet-Dreams
