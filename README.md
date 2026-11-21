@@ -1,5 +1,4 @@
 # Hi! 👋 My Name is Yousuf Yaghmour
-### A developer
 
 I'm a developer who's passionate about learning and building new things.
 
